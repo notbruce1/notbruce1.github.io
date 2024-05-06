@@ -1,0 +1,4 @@
+baseURL = 'https://notbruce1.github.io/nobruce1.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
